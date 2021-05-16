@@ -4312,7 +4312,7 @@ input[type=button].btn-block {
   color: #fff;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.877);
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
   color: rgba(255, 255, 255, 0.75);
@@ -10017,7 +10017,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 17rem;
+    padding-left: 10rem;
   }
 }
 h1,
@@ -10115,7 +10115,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #ff7a7a;
 }
 
 .dev-icons {
